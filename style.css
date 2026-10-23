@@ -37,6 +37,8 @@ body {
 #password {
     flex: 1;
     font-size: 20px;
+    margin-left: 20px;
+    color: #5c5b5b;
     border: none;
     outline: none;
     background: transparent;
@@ -102,6 +104,7 @@ body {
 
 .slider {
     flex: 1;
+    height: 1px;
     min-width: 0;
     accent-color: #1685f8;
     cursor: pointer;
