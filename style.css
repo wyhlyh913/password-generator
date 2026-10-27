@@ -24,7 +24,7 @@ body {
 
 /* 密码框 */
 .generate-pass {
-    height: 50px;
+    height: 51px;
     display: flex;
     align-items: center;
     margin-bottom: 25px;
@@ -37,7 +37,7 @@ body {
 #password {
     flex: 1;
     font-size: 20px;
-    margin-left: 20px;
+    margin-left: 21px;
     color: #5c5b5b;
     border: none;
     outline: none;
